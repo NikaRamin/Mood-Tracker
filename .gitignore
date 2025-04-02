@@ -1,0 +1,7 @@
+*.pkl
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+*.csv  # Excluding data files by default
+.env   # Exclude environment variables file
